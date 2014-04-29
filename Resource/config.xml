@@ -56,7 +56,7 @@
   <config name="Fish06Density" value="1" />
   <config name="Fish06Pickyness" value="3" />
 
-  <config name="Fish07Value" value="1000" />
+  <config name="Fish07Value" value="1000000" />
   <config name="Fish07Speed" value="0.0" />
   <config name="Fish07HookPulseRate" value="33" />
   <config name="Fish07HookPulseStrength" value="0.3" />
